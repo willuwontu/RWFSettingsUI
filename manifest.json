@@ -1,0 +1,13 @@
+{
+	"name":"RoundsWithFriendSettingsUI",
+	"author_name":"willuwontu",
+    "version_number":"0.0.1",
+	"website_url":"https://github.com/willuwontu/RWFSettingsUI",
+	"displayName":"Rounds With Friends Settings UI",
+	"description":"Utilities for adding a settings menu to the RWF lobby UI.",
+	"dependencies": [
+	    "willis81808-UnboundLib-2.11.2",
+		"BepInEx-BepInExPack_ROUNDS-5.4.1100",
+		"olavim-RoundsWithFriends-2.2.1"
+	]
+}
